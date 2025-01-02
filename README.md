@@ -1,1 +1,1 @@
-# Spacecraft-dynamics-and-Controls
+# Dynamics-and-Control-of-Spacecraft
